@@ -1,0 +1,2 @@
+# wangying
+my first repostitory
