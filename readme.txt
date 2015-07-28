@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 Git is a boaster a:
+=======
+
+>>>>>>> Stashed changes
 Git is a super boaster
 git is on
 my stupid boss is very stupid;
